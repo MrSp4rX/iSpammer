@@ -14,9 +14,10 @@ Andrew<br>
 kush_xx27<br>
 <a href='https://github.com/brijeshpatel26667'>Brizzesh<br></a>
 Soumya Radha Krishna<br>
+DoubleA<br>
 <br>
 <b>Works:<br></b>
 <br>
-SpeedX, Sid and R37r0 Gh057 worked as Code Error Solver.<br><br>
+SpeedX, DoubleA, Sid and R37r0 Gh057 worked as Code Error Solver.<br><br>
 Andrew and Soumya Radha Krishna worked as API Finder.<br><br>
 kush_xx27 and Brizzesh worked for Creating a Good and Stylish Banner because I don't know How to create Banners XD and They created this Tool's Intro Video<br><br>
