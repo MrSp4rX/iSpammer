@@ -8,7 +8,7 @@ Full Tutorial Video</b>
 <b>Credits:<br></b>
 
 <a href='https://github.com/TheSpeedX'>SpeedX<br></a>
-R37r0 Gh057<br>
+<a href='https://github.com/R37r0-Gh057'>R37r0 Gh057<br></a>
 Sid<br>
 Andrew<br>
 kush_xx27<br>
