@@ -10,7 +10,7 @@ Full Tutorial Video</b>
 <a href='https://github.com/TheSpeedX'>SpeedX<br></a>
 <a href='https://github.com/R37r0-Gh057'>R37r0 Gh057<br></a>
 Sid<br>
-<a href='https://github.com/Sauravabhinav'>Mr.AlienX</a><br>
+<a href='https://github.com/Sauravabhinav' target=_blank>Mr.AlienX</a><br>
 kush_xx27<br>
 <a href='https://github.com/brijeshpatel26667'>Brizzesh<br></a>
 Soumya Radha Krishna<br>
