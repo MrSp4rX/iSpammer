@@ -19,5 +19,5 @@ DoubleA<br>
 <b>Works:<br></b>
 <br>
 SpeedX, DoubleA, Sid and R37r0 Gh057 worked as Code Error Solver.<br><br>
-Andrew and Soumya Radha Krishna worked as API Finder.<br><br>
+Mr. AlienX and Soumya Radha Krishna worked as API Finder.<br><br>
 kush_xx27 and Brizzesh worked for Creating a Good and Stylish Banner because I don't know How to create Banners XD and They created this Tool's Intro Video<br><br>
