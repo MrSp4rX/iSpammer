@@ -5,7 +5,7 @@ It's a SMS Bomber only For Indian Numbers
 Full Tutorial Video</b>
 <a href='https://drive.google.com/file/d/168SRs3EFBUCvwyMj4iNVRQMgmNnzPk5m/view?usp=drivesdk'>Tutorial of iSpammer</a>
 
-<b>Steps:</b>
+<b>Steps:</b><br>
 '''
 apt install python3 curl git -y
 git clone https://github.com/MrSp4rX/iSpammer.git
