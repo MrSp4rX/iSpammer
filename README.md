@@ -39,5 +39,5 @@ Mr. AlienX and Soumya Radha Krishna worked as API Finder.<br><br>
 Cyber Support Worked in  increasing Encryption and Worked Well<br><br>
 kush_xx27 and Brizzesh worked for Creating a Good and Stylish Banner because I don't know How to create Banners XD and They created this Tool's Intro Video<br><br>
 <br><br>
-<b><u>Using Our Creation in Wrong way is not permitted.<br>
-If you do then You will responsible for yourself.</u></b>
+<b><i>Using Our Creation in Wrong way is not permitted.<br>
+If you do then You will responsible for yourself.</i></b>
