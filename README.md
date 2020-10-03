@@ -5,6 +5,15 @@ It's a SMS Bomber only For Indian Numbers
 Full Tutorial Video</b>
 <a href='https://drive.google.com/file/d/168SRs3EFBUCvwyMj4iNVRQMgmNnzPk5m/view?usp=drivesdk'>Tutorial of iSpammer</a>
 
+<b>Steps:</b>
+'''
+apt install python3 curl git -y
+git clone https://github.com/MrSp4rX/iSpammer.git
+cd iSpammer
+pip3 install -r requirements.txt
+python ispammer.py -m Number_of_messages -t target's_mobile_number
+'''
+
 <b>Credits:<br></b>
 
 <a href='https://github.com/TheSpeedX'>SpeedX<br></a>
