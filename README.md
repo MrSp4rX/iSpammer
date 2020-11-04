@@ -11,7 +11,7 @@ apt install python3 curl git -y
 git clone https://github.com/MrSp4rX/iSpammer.git
 cd iSpammer
 pip3 install -r requirements.txt
-python3 ispammer.py -m Number_of_messages -t target's_mobile_number
+python3 iSpammer.py -m Number_of_messages -t target's_mobile_number
 ```
 <br>For Example:<br>
 
