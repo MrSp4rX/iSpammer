@@ -31,11 +31,12 @@ kush_xx27<br>
 <a href='https://github.com/brijeshpatel26667'>Brizzesh<br></a>
 Soumya Radha Krishna<br>
 DoubleA<br>
+<a href="https://www.instagram.com/encryptednoob/" target=_blank>Encrypt3dn00b</a><br>
 <br>
 <b>Works:<br></b>
 <br>
 SpeedX, DoubleA, Sid and R37r0 Gh057 worked as Code Error Solver.<br><br>
-Mr. AlienX and Soumya Radha Krishna worked as API Finder.<br><br>
+Encrypt3dn00b, Mr. AlienX and Soumya Radha Krishna worked as API Finder.<br><br>
 Cyber Support Worked in  increasing Encryption and Worked Well<br><br>
 kush_xx27 and Brizzesh worked for Creating a Good and Stylish Banner because I don't know How to create Banners XD and They created this Tool's Intro Video<br><br>
 <br><br>
