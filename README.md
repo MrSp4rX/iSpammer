@@ -16,7 +16,7 @@ python3 iSpammer.py -m Number_of_messages -t target's_mobile_number
 <br>For Example:<br>
 
 ```
-python3 ispammer.py -m 100 -t 9797979797
+python3 iSpammer.py -m 100 -t 9797979797
 ```
 
 <br><br>
