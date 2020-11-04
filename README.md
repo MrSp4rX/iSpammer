@@ -31,7 +31,7 @@ kush_xx27<br>
 <a href='https://github.com/brijeshpatel26667'>Brizzesh<br></a>
 Soumya Radha Krishna<br>
 DoubleA<br>
-<a href="https://www.instagram.com/encryptednoob/" target=_blank>Encrypt3dn00b</a><br>
+<a href="https://www.instagram.com/encryptednoob/" target="_blank">Encrypt3dn00b</a><br>
 <br>
 <b>Works:<br></b>
 <br>
