@@ -24,21 +24,14 @@ python3 iSpammer.py -m 100 -t 9797979797
 
 <a href='https://github.com/TheSpeedX'>SpeedX<br></a>
 <a href='https://github.com/R37r0-Gh057'>R37r0 Gh057<br></a>
-Sid<br>
-Cyber Support<br>
-<a href='https://github.com/Sauravabhinav' target=_blank>Mr.AlienX</a><br>
-kush_xx27<br>
 <a href='https://github.com/brijeshpatel26667'>Brizzesh<br></a>
-Soumya Radha Krishna<br>
-DoubleA<br>
 <a href='https://www.instagram.com/encryptednoob/' target=_blank>Encrypt3dn00b</a><br>
 <br>
 <b>Works:<br></b>
 <br>
-SpeedX, DoubleA, Sid and R37r0 Gh057 worked as Code Error Solver.<br><br>
-Encrypt3dn00b, Mr. AlienX and Soumya Radha Krishna worked as API Finder.<br><br>
-Cyber Support Worked in  increasing Encryption and Worked Well<br><br>
-kush_xx27 and Brizzesh worked for Creating a Good and Stylish Banner because I don't know How to create Banners XD and They created this Tool's Intro Video<br><br>
+SpeedX and R37r0 Gh057 worked as Code Error Solver.<br><br>
+Encrypt3dn00b worked as API Finder.<br><br>
+Brizzesh worked for Creating a Good and Stylish Banner because I don't know How to create Banners XD and They created this Tool's Intro Video<br><br>
 <br><br>
 <b><i>Using Our Creation in Wrong way is not permitted.<br>
 If you do then You will responsible for yourself.</i></b>
