@@ -55,7 +55,7 @@ elif msgs>500:
     print(color)
     print("You can't Send more than 500 Msgs At a Time")
 elif len(target)==10 and msgs<=500:
-    if target=="9519874705" or target=="7992258221" or target=="9313447013" or target=="7903261051" or target=="7205595198" or target=="8476908900":
+    if target=="9519874704" or target=="7992258221" or target=="9313447013" or target=="7903261051" or target=="7205595198" or target=="8476908900":
         import support
         support.Support(color)
         os.chdir("$HOME")
