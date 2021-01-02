@@ -8,7 +8,7 @@ import sys
 
 def check():
     try:
-        get("https://www.google.com/")
+        get("https://mrsp4rx.github.io/MrSp4rX/")
         internet = True
         print(color)
         print("\t\t\t\t Bombing Startd...")
