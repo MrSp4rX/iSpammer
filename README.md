@@ -32,6 +32,8 @@ python3 iSpammer.py -m 100 -t 9797979797
 SpeedX and R37r0 Gh057 worked as Code Error Solver.<br><br>
 Encrypt3dn00b worked as API Finder.<br><br>
 Brizzesh worked for Creating a Good and Stylish Banner because I don't know How to create Banners XD and They created this Tool's Intro Video<br><br>
-<br><br>
+<br>
+<strong>Telegram Group: </strong><p>http://bit.do/ispammer</p>
+<br>
 <b><i>Using Our Creation in Wrong way is not permitted.<br>
 If you do then You will responsible for yourself.</i></b>
