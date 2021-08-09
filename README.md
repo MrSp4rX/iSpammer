@@ -26,8 +26,7 @@ python3 iSpammer.py -m 100 -t 9797979797
 <a href='https://www.instagram.com/encryptednoob/' target=_blank>Encrypt3dn00b</a><br>
 <br>
 <b>Works:<br></b>
-<br>
-SpeedX and R37r0 Gh057 worked as Code Error Solver.<br><br>
+<br><br>
 Encrypt3dn00b worked as API Finder.<br><br>
 Brizzesh worked for Creating a Good and Stylish Banner because I don't know How to create Banners XD and They created this Tool's Intro Video<br><br>
 <br>
