@@ -22,8 +22,6 @@ python3 iSpammer.py -m 100 -t 9797979797
 <br><br>
 <b>Credits:<br></b>
 
-<a href='https://github.com/TheSpeedX'>SpeedX<br></a>
-<a href='https://github.com/R37r0-Gh057'>R37r0 Gh057<br></a>
 <a href='https://github.com/brijeshpatel26667'>Brizzesh<br></a>
 <a href='https://www.instagram.com/encryptednoob/' target=_blank>Encrypt3dn00b</a><br>
 <br>
